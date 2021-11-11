@@ -23,7 +23,7 @@ our planes are :
 
 ### Designing
 
-![home](shop.png)
+![home](img2/shop.png)
 #### Our design is looks like this and you can see.
 
 ### development
